@@ -1,0 +1,6 @@
+{
+  "github.copilot.suggestionActions.enabled": False,
+  "github.copilot.telemetry.enabled": False,
+  "github.copilot.viewSuggestionsOnKeyPress": False,
+  "workbench.editor.enablePreview": False
+}
